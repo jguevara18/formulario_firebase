@@ -1,10 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAT0WBz3GjZDFarHVM70IgU61Jaz7N5zMU",
+    
     authDomain: "formulario-42bc0.firebaseapp.com",
     projectId: "formulario-42bc0",
     storageBucket: "formulario-42bc0.appspot.com",
     messagingSenderId: "264141118825",
-    appId: "1:264141118825:web:9d7611acc7b5ba481271f8",
     measurementId: "G-ZQSLYLVZTC"                          
 };
 
